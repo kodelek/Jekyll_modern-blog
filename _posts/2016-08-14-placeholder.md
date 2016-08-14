@@ -1,10 +1,10 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
-author: "Wferr"
+title:  "Placeholder"
+subtitle: "test"
+author: "Anna"
 avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+image: "img/a.jpg"
+date:   2016-08-14
 ---
 
 ### Dolor sit amet?
